@@ -1,6 +1,6 @@
 context('Actions', () => {
   beforeEach(() => {
-    cy.visit('http://localhost:1234 ')
+    cy.visit('http://localhost:1234')
   })
 
   it('has the proper heading', () => {
