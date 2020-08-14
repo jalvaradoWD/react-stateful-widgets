@@ -14,6 +14,6 @@ context('Actions', () => {
     cy.contains('Decrement')
   })
   it('has a reset button', () => {
-    cy.contains('Reset')
+    cy.contains('Reset!')
   })
 })
