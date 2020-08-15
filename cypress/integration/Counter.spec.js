@@ -1,4 +1,4 @@
-context('ActionZX', () => {
+context('ActionZXY', () => {
   beforeEach(() => {
     cy.visit('http://localhost:1234')
   })
